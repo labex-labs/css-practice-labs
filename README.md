@@ -31,7 +31,7 @@ This course contains lots of labs for CSS, each lab is a small CSS project with 
 |      18 | 📖 Image Text Overlay                                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/35247'>Start Lab</a>  |
 |      19 | 📖 Zebra Striped List                                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/35257'>Start Lab</a>  |
 |      20 | 📖 Creating Responsive Tiled Layouts                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/35248'>Start Lab</a>  |
-|      21 | 📖 Mastering CSS Clearfix Technique                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/35182'>Start Lab</a>  |
+|      21 | 📖 CSS Clearfix Technique                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/35182'>Start Lab</a>  |
 |      22 | 📖 Custom Text Selection                                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/35188'>Start Lab</a>  |
 |      23 | 📖 CSS Styling Techniques for Web Development            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/35181'>Start Lab</a>  |
 |      24 | 📖 Accessible Offscreen Element Hiding                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/35227'>Start Lab</a>  |
